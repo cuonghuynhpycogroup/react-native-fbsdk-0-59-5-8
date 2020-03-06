@@ -1,0 +1,1 @@
+# react-native-fbsdk-0-59-5-8
